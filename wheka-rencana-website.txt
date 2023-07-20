@@ -9,3 +9,4 @@ Rencana Website Wheka
 -membuat dengan boostrap
 -membuat dengan bagus
 -membuat tampilan menarik
+-membuat dengan laravel
