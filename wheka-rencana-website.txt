@@ -6,3 +6,5 @@ Rencana Website Wheka
 -membuat dengan php
 -membuat dengan boostrap
 -membuat dengan bagus
+-membuat apk di dalam hp
+-mebuat website bisa di dalam playstore
