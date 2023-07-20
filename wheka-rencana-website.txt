@@ -1,8 +1,11 @@
 Rencana Website Wheka
 -membuat halaman website
+  ^tampilan view bergerak
 *dengan menggunakan syntax terbaru
 *tampilan terbaru
--membuat apk android
+-membuat apk android 
+  ^apk games
 -membuat dengan php
 -membuat dengan boostrap
 -membuat dengan bagus
+-membuat tampilan menarik
