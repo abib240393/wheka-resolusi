@@ -2,6 +2,7 @@ Rencana Website Wheka
 -membuat halaman website
 *dengan menggunakan syntax terbaru
 *tampilan terbaru
+-membuat apk android
 -membuat dengan php
 -membuat dengan boostrap
 -membuat dengan bagus
